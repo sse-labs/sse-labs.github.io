@@ -3,7 +3,6 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-title = "Secure Software Engineering"
 # baseURL = "https://your_domain.com/"
 defaultContentLanguage = "en"
 
