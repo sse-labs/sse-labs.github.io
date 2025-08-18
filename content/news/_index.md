@@ -1,15 +1,11 @@
 ---
-title: "Research Software"
+title: "News"
 description: "Software we created for our research, that we share with everyone."
 summary: "Software we created for our research, that we share with everyone."
 showReadingTime: false
 cascade:
   showEdit: false
   showSummary: true
-  showDate: false
+  showDate: true
   hideFeatureImage: false
 ---
-
-{{< lead >}}
-Software we created for our research, that we share with everyone. :microscope:
-{{< /lead >}}
