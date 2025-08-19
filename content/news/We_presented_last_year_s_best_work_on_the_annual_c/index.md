@@ -5,12 +5,10 @@ title: "We presented last year's best work on the annual conference on Software 
 link: "https://sse.cs.tu-dortmund.de/newsdetail/gi-se-2024-39871/"
 enclosure: ""
 source: "We presented last year's best work on the annual conference on Software Engineering of the German Informatics Society"
-summary: "The annual conference on Software Engineering of the German Informatics Society is an annual event hosted in a city in Germany, Austria, or Switzerland."
+summary: "..."
 featured_image: "/featured.png"
 ---
 ![We presented last year's best work on the annual conference on Software Engineering of the German Informatics Society](/featured.png)
-
-... and our student Maximilian Krebs received the award of the best thesis of the year!
 
 The annual conference on Software Engineering of the German Informatics Society is an annual event hosted in a city in Germany, Austria, or Switzerland. It is a "best-of event", meaning that submissions are only considered for presentation if they have been already published at a top-tier conference or major journal in the area of software engineering. It is a great way to catch up with all the great work done in your neighborhood.
 

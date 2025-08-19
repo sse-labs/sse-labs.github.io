@@ -5,12 +5,10 @@ title: "Paper on Software Supply Chain stability will be published at ICSE 2023"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/paper-on-software-supply-chain-stability-will-be-published-at-icse-2023-26324/"
 enclosure: ""
 source: "Paper on Software Supply Chain stability will be published at ICSE 2023"
-summary: "In UPCY: Safely Updating Outdated Dependencies we improve automated dependency upgrades for software systems by computing update suggestions with minimal incompatibilities."
+summary: "Our novel approach makes update decisions more stable and predictable allowing for better automation."
 featured_image: "/featured.png"
 ---
 ![Paper on Software Supply Chain stability will be published at ICSE 2023](/featured.png)
-
-Our novel approach makes update decisions more stable and predictable allowing for better automation.
 
 In **UPCY: Safely Updating Outdated Dependencies** we improve automated dependency upgrades for software systems by computing update suggestions with minimal incompatibilities. Better automation for software component dependency upgrade is essential for its adoption in software engineering and will help to make software component supply chains more reliable and secure. With UpCy we can suggest update configurations that have zero incompatibilities in 99% of cases in our extensive evaluation. In cases with incompatibilities UpCy generates update configurations with fewer incompatibilities than state-of-the-art tools. We achieve this by treating dependency upgrades as a graph-theoretic problem and apply the min-(s,t)-cut algorithm on a complete dependency graph for Maven Central supported by a graph database.
 

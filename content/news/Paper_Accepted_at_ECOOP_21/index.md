@@ -5,12 +5,10 @@ title: "Paper Accepted at ECOOP'21"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/paper-accepted-at-ecoop21-8701/"
 enclosure: ""
 source: "Paper Accepted at ECOOP'21"
-summary: "In this paper we present an approach to significantly speed up whole-program analysis (WPA) using compositionality and modularity of the analyes and their respective results."
+summary: "Our paper \"Lossless, Persisted Summarization of Static Callgraph, Points-To and Data-Flow Analysis\" will be presented at ECOOP'21."
 featured_image: "/featured.png"
 ---
 ![Paper Accepted at ECOOP'21](/featured.png)
-
-Our paper "Lossless, Persisted Summarization of Static Callgraph, Points-To and Data-Flow Analysis" will be presented at ECOOP'21.
 
 In this paper we present an approach to significantly speed up whole-program analysis (WPA) using compositionality and modularity of the analyes and their respective results. It works on every level: callgraph, points-to and data-flow analysis. We built this on top of PhASAR so you can easily add it to your PhASAR-based client analyses. As usual with PhASAR this works with real-world code out of the box.
 

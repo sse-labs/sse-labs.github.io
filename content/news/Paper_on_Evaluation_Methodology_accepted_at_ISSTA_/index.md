@@ -5,12 +5,10 @@ title: "Paper on Evaluation Methodology accepted at ISSTA'24"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/dyncg-issta24-39888/"
 enclosure: ""
 source: "Paper on Evaluation Methodology accepted at ISSTA'24"
-summary: "Static call graph generation is a basic building block of static program analysis."
+summary: "In \"Total Recall?"
 featured_image: "/featured.png"
 ---
 ![Paper on Evaluation Methodology accepted at ISSTA'24](/featured.png)
-
-In "Total Recall? How Good are Static Call Graphs Really?" we construct a novel methodology for benchmarks.
 
 Static call graph generation is a basic building block of static program analysis. Many other analyses are based on the resulting call graph and directly inherit their imprecisions and flaws. Therefore, a most precise and complete call graph should be the aim of this step. However, in practice it's not that easy to evaluate call graph generation results, especially under realistic conditions.
 

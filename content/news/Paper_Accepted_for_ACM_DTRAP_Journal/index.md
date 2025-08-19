@@ -5,12 +5,10 @@ title: "Paper Accepted for ACM DTRAP Journal"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/paper-accepted-for-dtrap21-journal-10407/"
 enclosure: ""
 source: "Paper Accepted for ACM DTRAP Journal"
-summary: "In our paper, we present an in-depth analysis on how and when library maintainers react to the disclosure and publication of vulnerabilities, and how long it takes to release appropriate patches."
+summary: "Our paper \"Analyzing the Direct and Transitive Impact of Vulnerabilities onto Different Artifact Repositories\" will be part of ACM DTRAP's special issue on vulnerabilities"
 featured_image: "/featured.png"
 ---
 ![Paper Accepted for ACM DTRAP Journal](/featured.png)
-
-Our paper "Analyzing the Direct and Transitive Impact of Vulnerabilities onto Different Artifact Repositories" will be part of ACM DTRAP's special issue on vulnerabilities
 
 In our paper, we present an in-depth analysis on how and when library maintainers react to the disclosure and publication of vulnerabilities, and how long it takes to release appropriate patches. We especially focus on vulnerabilities contained in transitive dependencies, as those are often hard to identify both for maintainers and software developers.
 
@@ -18,4 +16,4 @@ In order to do so, we present a tool that accumulates the artifact dependency gr
 
 The [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap) journal started in 2020 and aims to bridge the existing gap between academic research and industry pratice. Our paper will be published in a special journal issue on vulnerabilities.
 
-[Preprint](//storages/sse-cs/r/Publications/Preprints/vuln_impact_analysis.pdf)
+[Preprint](/storages/sse-cs/r/Publications/Preprints/vuln_impact_analysis.pdf)

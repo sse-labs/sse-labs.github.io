@@ -5,7 +5,7 @@ title: "Ben Hermann is now on the ACM TOSEM Board of Distinguished Reviewers"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/ben-hermann-is-now-on-the-acm-tosem-board-of-distinguished-reviewers-22974/"
 enclosure: ""
 source: "Ben Hermann is now on the ACM TOSEM Board of Distinguished Reviewers"
-summary: "The journal Transactions on Software Engineering and Methodology is the premier journal on software engineering published by the Association for Computing Machinery (ACM)."
+summary: ""
 featured_image: "/featured.png"
 ---
 ![Ben Hermann is now on the ACM TOSEM Board of Distinguished Reviewers](/featured.png)

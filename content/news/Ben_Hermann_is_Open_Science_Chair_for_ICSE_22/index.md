@@ -5,12 +5,10 @@ title: "Ben Hermann is Open Science Chair for ICSE'22"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/news/ben-hermann-is-open-science-chair-for-icse22-12837/"
 enclosure: ""
 source: "Ben Hermann is Open Science Chair for ICSE'22"
-summary: "As a principle, research should be publicly and freely accessible by anyone, permanently."
+summary: "Research output should be publicly and freely accessible by anyone, permanently."
 featured_image: "/featured.png"
 ---
 ![Ben Hermann is Open Science Chair for ICSE'22](/featured.png)
-
-Research output should be publicly and freely accessible by anyone, permanently. Prof. Hermann is responsible for the proliferation and promotion of open science practices at the International Conference on Software Engineering 2022.
 
 As a principle, research should be publicly and freely accessible by anyone, permanently.
 

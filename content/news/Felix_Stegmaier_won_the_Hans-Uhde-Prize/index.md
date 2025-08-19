@@ -5,12 +5,10 @@ title: "Felix Stegmaier won the Hans-Uhde-Prize"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/felix-stegmaier-won-the-hans-uhde-prize-52296/"
 enclosure: ""
 source: "Felix Stegmaier won the Hans-Uhde-Prize"
-summary: "One of our students - Felix Stegmaier - received the Hans-Uhde-Prize for his Master thesis titled \"Inter-procedural Static Analysis for Unsafe Rust using PhASAR\"."
+summary: "He received the prize for his Master thesis in our group on extending PhASAR for Rust"
 featured_image: "/featured.png"
 ---
 ![Felix Stegmaier won the Hans-Uhde-Prize](/featured.png)
-
-He received the prize for his Master thesis in our group on extending PhASAR for Rust
 
 One of our students - **Felix Stegmaier** - received the Hans-Uhde-Prize for his Master thesis titled "*Inter-procedural Static Analysis for Unsafe Rust using PhASAR*". Felix extended PhASAR to accommodate for the differences to C/C++ in compilation in preparation for analysis. He built the groundworks for real-world code analysis and possible applications in program testing or security. He showed significant insight into the scientific method as well as the problem domain.
 

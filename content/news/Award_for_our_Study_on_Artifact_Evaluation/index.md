@@ -5,12 +5,10 @@ title: "Award for our Study on Artifact Evaluation"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/acm-sigsoft-distinguished-paper-award-7281/"
 enclosure: ""
 source: "Award for our Study on Artifact Evaluation"
-summary: "Replicability in computer science research is essential to advance the field and to establish trust in the acquired results."
+summary: "Our study \"Community Expectations for Research Artifacts and Evaluation Processes\" has won the ACM SIGSOFT Distinguished Paper Award!"
 featured_image: "/featured.png"
 ---
 ![Award for our Study on Artifact Evaluation](/featured.png)
-
-Our study "Community Expectations for Research Artifacts and Evaluation Processes" has won the ACM SIGSOFT Distinguished Paper Award!
 
 Replicability in computer science research is essential to advance the field and to establish trust in the acquired results. One way to encourage it is by peer review in artifact evaluation.
 

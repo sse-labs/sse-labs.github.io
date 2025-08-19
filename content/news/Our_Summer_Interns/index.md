@@ -5,12 +5,10 @@ title: "Our Summer Interns"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/our-summer-interns-43244/"
 enclosure: ""
 source: "Our Summer Interns"
-summary: "Again, this year, our PhD students Anemone Kampkötter and Johannes Düsing are supported by two interns from the US over the summer."
+summary: "We welcome our international interns for the summer!"
 featured_image: "/featured.png"
 ---
 ![Our Summer Interns](/featured.png)
-
-We welcome our international interns for the summer! Jared Chiaramonte and Vivek Sarkar join our group for the next months.
 
 Again, this year, our PhD students Anemone Kampkötter and Johannes Düsing are supported by two interns from the US over the summer. They applied through the RISE Germany program of the German Academic Exchange Service (DAAD; German: Deutscher Akademischer Austauschdienst).
 

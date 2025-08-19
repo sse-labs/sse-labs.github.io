@@ -5,12 +5,10 @@ title: "Ben Hermann starts Secure Software Engineering Research Group at TU Dort
 link: "https://sse.cs.tu-dortmund.de/newsdetail/ben-hermann-starts-7280/"
 enclosure: ""
 source: "Ben Hermann starts Secure Software Engineering Research Group at TU Dortmund"
-summary: "After his substitute professorship for IT security at Paderborn University, Prof."
+summary: "The focus of the new research group will be the engineering of secure software systems."
 featured_image: "/featured.png"
 ---
 ![Ben Hermann starts Secure Software Engineering Research Group at TU Dortmund](/featured.png)
-
-The focus of the new research group will be the engineering of secure software systems.
 
 After his substitute professorship for IT security at Paderborn University, Prof. Hermann joins TU Dortmund and starts his research group for Secure Software Engineering. As the name suggest the focus of the group will be on the engineering of secure software. A special emphasis will be given to the evolutionary development of software systems. This will enable software developers to learn better from past mistakes and be warned early in the process.
 

@@ -5,12 +5,10 @@ title: "Ben Hermann is organizing ECOOP 2022 in Berlin"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/ben-hermann-is-organizing-ecoop-2022-in-berlin-12838/"
 enclosure: ""
 source: "Ben Hermann is organizing ECOOP 2022 in Berlin"
-summary: "Starting in 1987, ECOOP is Europe’s oldest programming conference."
+summary: "ECOOP's 35th edition will happen in Berlin."
 featured_image: "/featured.png"
 ---
 ![Ben Hermann is organizing ECOOP 2022 in Berlin](/featured.png)
-
-ECOOP's 35th edition will happen in Berlin. As general chair, Ben Hermann oversees the organization of the conference. It will be the first in-person event since 2019.
 
 Starting in 1987, ECOOP is Europe’s oldest programming conference. That summer, at the Palais des Congres in Paris, the conference aimed to promote an up-and-coming new software paradigm, *object-oriented programming*.
 

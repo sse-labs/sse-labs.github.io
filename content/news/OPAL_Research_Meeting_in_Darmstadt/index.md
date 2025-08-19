@@ -5,12 +5,10 @@ title: "OPAL Research Meeting in Darmstadt"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/ssetudo-visits-stgtuda-34771/"
 enclosure: ""
 source: "OPAL Research Meeting in Darmstadt"
-summary: "In our regular interval we met with researcher from the Software Technology Group at Technische Universität Darmstadt."
+summary: "Our research group visits the Software Technology Group at Technische Universität Darmstadt led by Prof."
 featured_image: "/featured.png"
 ---
 ![OPAL Research Meeting in Darmstadt](/featured.png)
-
-Our research group visits the Software Technology Group at Technische Universität Darmstadt led by Prof. Dr. Mira Mezini.
 
 In our regular interval we met with researcher from the [Software Technology Group](https://www.stg.tu-darmstadt.de/) at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/). As both our groups are involved in the development of the [OPAL framework](https://www.opal-project.de/) we have an in-person meeting roughly every six months to catch up with the other groups work.
 

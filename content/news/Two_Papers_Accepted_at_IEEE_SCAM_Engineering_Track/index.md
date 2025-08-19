@@ -5,12 +5,10 @@ title: "Two Papers Accepted at IEEE SCAM Engineering Track"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/two-papers-accepted-at-ieee-scam-engineering-track-12836/"
 enclosure: ""
 source: "Two Papers Accepted at IEEE SCAM Engineering Track"
-summary: "PhASAR is our static data-flow analysis framework written in C++ for the analysis of C/C++ programs."
+summary: "We share insights into our design decisions and our handling of globals in C/C++ programs."
 featured_image: "/featured.png"
 ---
 ![Two Papers Accepted at IEEE SCAM Engineering Track](/featured.png)
-
-We share insights into our design decisions and our handling of globals in C/C++ programs. This allowed us to report on the 5 years development history of PhASAR and give credit to the people involved.
 
 PhASAR is our static data-flow analysis framework written in C++ for the analysis of C/C++ programs. It is based on the LLVM infrastructure. Due to the unique feature of the C/C++ language family such as arbitrary pointers to memory, and unsafe type systems, or multiple inheritance static program analysis for this language family poses a unique challenge. We open-sourced PhASAR in 2018 and since then have received numerous issues and pull requests from academia and industry. It currently has over 600 stars on GitHub.
 

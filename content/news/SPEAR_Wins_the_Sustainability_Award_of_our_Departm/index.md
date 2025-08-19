@@ -5,12 +5,10 @@ title: "SPEAR Wins the Sustainability Award of our Department"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/spear-wins-the-sustainability-award-of-our-department-50879/"
 enclosure: ""
 source: "SPEAR Wins the Sustainability Award of our Department"
-summary: "Our research project SPEAR - Static Analysis for Predicting the Energy Consumption of Programs has won the sustainability award of our department."
+summary: "In its first iteration we won the Sustainability Award in the category Technical Sustainability."
 featured_image: "/featured.png"
 ---
 ![SPEAR Wins the Sustainability Award of our Department](/featured.png)
-
-In its first iteration we won the Sustainability Award in the category Technical Sustainability.
 
 Our research project SPEAR - Static Analysis for Predicting the Energy Consumption of Programs has won the sustainability award of our department. The department of computer science has created the award to honor the contributions of project teams and individuals for sustainability in the context of computer science. The award was given in two categories: social sustainability and technical sustainability.
 

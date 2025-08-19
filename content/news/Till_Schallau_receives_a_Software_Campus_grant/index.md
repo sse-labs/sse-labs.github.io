@@ -5,12 +5,10 @@ title: "Till Schallau receives a Software Campus grant"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/till-schallau-receives-a-softwarecampus-grant-51842/"
 enclosure: ""
 source: "Till Schallau receives a Software Campus grant"
-summary: "Till Schallau received funding in the prestigious Software Campus program of the German Ministry for Education and Research (BMBF)."
+summary: "In a two-year project we will explore formal specifications in scenario-based testing for autonomic driving"
 featured_image: "/featured.png"
 ---
 ![Till Schallau receives a Software Campus grant](/featured.png)
-
-In a two-year project we will explore formal specifications in scenario-based testing for autonomic driving
 
 Till Schallau received funding in the prestigious [Software Campus](https://softwarecampus.de/) program of the German Ministry for Education and Research (BMBF). This is a high-profile program that only selects a few of the PhD students in computer science in Germany each year. Its goal is twofold: Educate and develop the next IT leaders in Germany and fund a research project in collaboration with an industry partner.
 

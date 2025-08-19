@@ -5,12 +5,10 @@ title: "Two New Publications Accepted at MSR 2025"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/two-new-publications-accepted-at-msr-2025-49992/"
 enclosure: ""
 source: "Two New Publications Accepted at MSR 2025"
-summary: "Over the last summer we were joined by two US interns - Vivek Sarkar from University of Washington and Jared Chiaramonte from Arizona State University."
+summary: "In collaboration with our summer interns, we wrote and published two separate tool papers at MSR 2025."
 featured_image: "/featured.png"
 ---
 ![Two New Publications Accepted at MSR 2025](/featured.png)
-
-In collaboration with our summer interns, we wrote and published two separate tool papers at MSR 2025.
 
 Over the [last summer we were joined by two US interns](https://sse.cs.tu-dortmund.de/news-list/details/our-summer-interns-43244/) - Vivek Sarkar from University of Washington and Jared Chiaramonte from Arizona State University. Both Vivek and Jared stayed with us for three months, each working on a separate internship project. After the internships ended we kept in touch and wrote papers for both projects. We are happy to report that both these papers have been accepted to the [Data and Tool Showcase Track](https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track) of the [Mining Software Repositories Conference 2025](https://2025.msrconf.org/) (MSR '25) in Ottawa, Canada.  
    

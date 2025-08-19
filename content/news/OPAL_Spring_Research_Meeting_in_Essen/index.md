@@ -5,12 +5,10 @@ title: "OPAL Spring Research Meeting in Essen"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/opal-spring-research-meeting-in-essen-49642/"
 enclosure: ""
 source: "OPAL Spring Research Meeting in Essen"
-summary: "Our research group visits Interim Professor Dr."
+summary: "Our group met with researchers involved in the OPAL project again."
 featured_image: "/featured.png"
 ---
 ![OPAL Spring Research Meeting in Essen](/featured.png)
-
-Our group met with researchers involved in the OPAL project again.
 
 Our research group visits Interim Professor [Dr. Dominik Helm](https://sse.uni-due.de/ueber-uns/team/dr-dominik-helm) at University of Duisburg-Essen (UDE). He was so kind to host the OPAL Research Spring Meeting this year.
 

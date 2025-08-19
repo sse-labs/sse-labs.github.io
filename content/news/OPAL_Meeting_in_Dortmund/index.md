@@ -5,12 +5,10 @@ title: "OPAL Meeting in Dortmund"
 link: "https://sse.cs.tu-dortmund.de/newsdetail/opal-meeting-in-dortmund-30783/"
 enclosure: ""
 source: "OPAL Meeting in Dortmund"
-summary: "Dominik Helm , Dr."
+summary: "Scientists from TU Darmstadt visit the Secure Software Engineering Group to discuss the future of the OPAL framework."
 featured_image: "/featured.png"
 ---
 ![OPAL Meeting in Dortmund](/featured.png)
-
-Scientists from TU Darmstadt visit the Secure Software Engineering Group to discuss the future of the OPAL framework. Over two days we discussed joint projects - both scientific and engineering - in relation to OPAL.
 
 [Dominik Helm](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/dominik_helm_1.en.jsp), [Dr. Sven Keide](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/sven_keidel_1.en.jsp)l, and [Tobias Roth](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/tobias_roth_1.en.jsp) from the [Software Technology Group](https://www.stg.tu-darmstadt.de/main_stg/index.en.jsp) at Technische Universität Darmtadt visited our group over two days. We discussed the future of the OPAL framework and our joint activities in that area. And of course we celebrated the recent release of OPAL 5.
 
