@@ -33,4 +33,43 @@ Für eine Bewerbung benötigen wir folgende Unterlagen:
 Die Bewerbungsunterlagen bitte per Email mit dem Titel **[SEFMT-2026] Vorname Nachname Universität** an ben.hermann@iste.uni-stuttgart.de
 
 
+## Programm
 
+##### Wednesday (15.07.2026)
+
+|               |                             |
+| ------------- | ----------------------------|
+| 14:30 – 14:35 | **Welcome by organizers**   |
+| 14:35 – 15:30 | **Short introduction round by the participant (Who are you? What help/collaborations would you need on your research in the next 2 years)** |
+| 15:30 – 16:00 | Break                       |
+| 16:00 – 17:00 | tba                         |
+| 17:00 – 18:00 | tba                         |
+
+
+##### Thursday (16.07.2026)
+
+|               |                             |
+| ------------- | --------------------------- |
+| 09:00 – 09:45 | Falk Howar - Design Science |
+| 09:45 – 10:30 | tba                         |
+| 10:30 – 10:45 | Coffee break                |
+| 10:45 – 11:45 | **Breakout Groups**         |
+| 11:45 – 12:30 | **Breakout Groups**         |
+| 12:30 – 13:30 | Lunch                       |
+| 13:30 – 14:30 | tba                         |
+| 14:30 – 15:30 | tba                         |
+| 15:30 – 16:00 | Break                       |
+| 16:00 – 17:00 | **Breakout Groups**         |
+| 17:00 – 18:00 | **Breakout Groups**         |
+
+##### Friday (17.07.2026)
+
+|               |                                                      |
+| ------------- | ---------------------------------------------------- |
+| 08:30 – 09:30 | Ben Hermann - Artifact Sharing in SE                 |
+| 09:30 – 10:30 | tba                                                  |
+| 10:30 – 10:45 | Coffee break                                         |
+| 10:45 – 11:45 | **Breakout Groups**                                  |
+| 11:45 – 12:30 | **Breakout Groups**                                  |
+| 12:30 – 13:30 | Lunch                                                |
+| 13:30 – 15:00 | **Breakout Groups (Conditional or Early Departure)** |
