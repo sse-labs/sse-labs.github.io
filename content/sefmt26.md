@@ -42,7 +42,7 @@ Die Bewerbungsunterlagen bitte per Email mit dem Titel **[SEFMT-2026] Vorname Na
 | 14:30 – 14:35 | **Welcome by organizers**                   |
 | 14:35 – 15:30 | **Short introduction round by the participant (Who are you? What help/collaborations would you need on your research in the next 2 years)**        |
 | 15:30 – 16:00 | Coffee Break                                |
-| 16:00 – 17:00 | tba                                         |
+| 16:00 – 17:00 | **Ben Hermann - Discussion: What are your current research methods?** |
 | 17:00 – 18:00 | **Ask us anything (open session)**.         |
 
 
